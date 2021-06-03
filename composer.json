@@ -10,4 +10,13 @@
         }
     ],
     "require": {}
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        },
+        "classmap": [
+            "src/irInboPluginContainer/classes",
+            "src/irInboPluginContainer/services",
+        ]
+    }
 }
