@@ -1,0 +1,13 @@
+{
+    "name": "ir-inbo/inbo-plugin-container",
+    "description": "a container for wp plugin",
+    "type": "library",
+    "license": "GNUv3",
+    "authors": [
+        {
+            "name": "mank",
+            "email": "mohammad.ank@outlook.com"
+        }
+    ],
+    "require": {}
+}
