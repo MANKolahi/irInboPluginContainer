@@ -1,7 +1,7 @@
 <?php
 
 
-namespace irInboArticle\services;
+namespace irInboPluginContainer\services;
 
 
 interface InboServiceInterface

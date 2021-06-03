@@ -6,10 +6,10 @@
  */
 
 
-namespace irInboArticle\classes;
+namespace irInboPluginContainer\classes;
 
 use ArrayAccess;
-use irInboArticle\services\InboServiceInterface;
+use irInboPluginContainer\services\InboServiceInterface;
 
 class Plugin implements ArrayAccess {
     protected $contents;

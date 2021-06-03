@@ -5,7 +5,7 @@
  * @copyright           please_do_not_copy
  */
 
-namespace irInboArticle\classes;
+namespace irInboPluginContainer\classes;
 
 class InboTemplate {
     //Path to template
