@@ -1,5 +1,6 @@
 {
     "name": "ir-inbo/inbo-plugin-container",
+    "version": "1.0",
     "description": "a container for wp plugin",
     "type": "library",
     "license": "GPL-3.0-or-later",
